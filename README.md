@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Problem Statement
+Evaluating student answer scripts manually is time-consuming and prone to inconsistencies. Leveraging AI for this task can streamline the process, ensure fairness, and provide detailed feedback.
+# Target Audience
+This blog is intended for educators, developers, and AI enthusiasts with a basic understanding of FastAPI, Google Cloud services, and OCR technologies.
+# Outcome
+By the end of this blog, readers will learn how to build a system that automates the evaluation of student answer scripts using Google's Gemini Vision and Firebase.
